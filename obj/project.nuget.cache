@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r06XsQa0cJhgOlWIlPsLF+j87XQHZm/t6Ghil18JskJS+zsEOtDg7q92jSpbgtDAJsJiB8hhxk3/tnIrdn/ovA==",
+  "dgSpecHash": "mwcRU/K59qMpvzwEYQcu3ofLxX+yDyjBvyaKOJm0aRIKr0fcZHsn2xud83/YSNJ4vbRUrK2BMVbJfpQSqRKqhw==",
   "success": true,
-  "projectFilePath": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\neo\\neo.csproj",
+  "projectFilePath": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\RWBY_NeoPolitan\\neo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Turtl\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\Turtl\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.1\\bepinex.assemblypublicizer.msbuild.0.4.1.nupkg.sha512",

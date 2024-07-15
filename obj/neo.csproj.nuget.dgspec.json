@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\neo\\neo.csproj": {}
+    "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\RWBY_NeoPolitan\\neo.csproj": {}
   },
   "projects": {
-    "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\neo\\neo.csproj": {
+    "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\RWBY_NeoPolitan\\neo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\neo\\neo.csproj",
+        "projectUniqueName": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\RWBY_NeoPolitan\\neo.csproj",
         "projectName": "neo",
-        "projectPath": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\neo\\neo.csproj",
+        "projectPath": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\RWBY_NeoPolitan\\neo.csproj",
         "packagesPath": "C:\\Users\\Turtl\\.nuget\\packages\\",
-        "outputPath": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\neo\\obj\\",
+        "outputPath": "D:\\docs\\lethalCompany mod\\modelReplace\\LC Model replacement\\LCMR\\modOutput\\RWBY_NeoPolitan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Turtl\\AppData\\Roaming\\NuGet\\NuGet.Config",
