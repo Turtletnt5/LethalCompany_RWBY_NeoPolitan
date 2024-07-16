@@ -20,7 +20,7 @@ Physics: https://github.com/naelstrof/UnityJigglePhysics
 
 ## Changelog
 	- v0.2.0
-		- Added physics to character hair, cloths and body
+		- Added physics to character hair, clothes and body
 		- Changed rack suit accent color to pink
 	- v0.1.1
 		- Fixed moresuits replacment path
