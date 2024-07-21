@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("neo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9a3828b197167d4b88510a11dfe31e9138e7bfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6377cd695dd9424f9a875bc04bcca4a4112b1c35")]
 [assembly: System.Reflection.AssemblyProductAttribute("neo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("neo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,7 @@ using System.Xml.Linq;
 
 namespace RWBY_NeoPolitan
 {
-    [BepInPlugin("com.Turtletnt5.RWBY_NeoPolitan", "RWBY_NeoPolitan", "0.1.0")]
+    [BepInPlugin("com.Turtletnt5.RWBY_NeoPolitan", "RWBY_NeoPolitan", "0.3.0")]
     [BepInDependency("meow.ModelReplacementAPI", BepInDependency.DependencyFlags.HardDependency)]
     [BepInDependency("x753.More_Suits", BepInDependency.DependencyFlags.HardDependency)]
     public class Plugin : BaseUnityPlugin

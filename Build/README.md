@@ -1,4 +1,4 @@
-# RWBY_NeoPolitan v0.2.0
+# RWBY_NeoPolitan v0.2.1
 ### Add NeoPolitan from RWBY as a skin 
 
 This is a mod that adds NeoPolitan from RWBY as a suit option.
@@ -16,9 +16,11 @@ Model: https://www.deviantart.com/tidiestflyer/art/Rwby-Neo-3d-model-721580341
 Physics: https://github.com/naelstrof/UnityJigglePhysics
 
 ## Instructions
-- Place contents in `bepinex/plugins` folder. Ensure that ModelReplacementAPI and MoreSuitsis also installed. 
+- Place contents in `bepinex/plugins` folder. Ensure that ModelReplacementAPI and MoreSuits is also installed. 
 
 ## Changelog
+	- v0.2.1
+		- Fixed Body physics
 	- v0.2.0
 		- Added physics to character hair, clothes and body
 		- Changed rack suit accent color to pink
