@@ -11,4 +11,13 @@ namespace RWBY_NeoPolitan
             return Assets.MainAssetBundle.LoadAsset<GameObject>(model_name);
         }
     }
+
+    public class MRNEOV2 : BodyReplacementBase
+    {
+        protected override GameObject LoadAssetsAndReturnModel()
+        {
+            string model_name = "NeoV2";
+            return Assets.MainAssetBundle.LoadAsset<GameObject>(model_name);
+        }
+    }
 }

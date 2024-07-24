@@ -51,7 +51,8 @@ namespace RWBY_NeoPolitan
             //        ModelReplacementAPI.RegisterSuitModelReplacement(item, typeof(MRNEO));
             //    }
 
-            ModelReplacementAPI.RegisterSuitModelReplacement("NeoPolitan", typeof(MRNEO));
+            ModelReplacementAPI.RegisterSuitModelReplacement("NeoPolitan OG", typeof(MRNEO));
+            ModelReplacementAPI.RegisterSuitModelReplacement("NeoPolitan Vol 6", typeof(MRNEOV2));
 
             Harmony harmony = new Harmony("com.Turtletnt5.RWBY_NeoPolitan");
             harmony.PatchAll();

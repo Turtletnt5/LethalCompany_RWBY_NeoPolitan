@@ -12,6 +12,8 @@ MoreSuits: https://github.com/x753/Lethal-Company-More-Suits
 
 ModelReplacementAPI: https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI
 
-Model: https://www.deviantart.com/tidiestflyer/art/Rwby-Neo-3d-model-721580341
+Model og: https://www.deviantart.com/tidiestflyer/art/Rwby-Neo-3d-model-721580341
+
+Model vol6: https://www.deviantart.com/bak09/art/Neopolitan-MMD-PMX-1070293395
 
 Physics: https://github.com/naelstrof/UnityJigglePhysics
