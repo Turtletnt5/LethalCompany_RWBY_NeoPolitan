@@ -2,7 +2,7 @@
 
 This is a mod that adds NeoPolitan from RWBY as a suit option.
 
-The model is made by tidiestflyer
+The model OG is made by tidiestflyer and the Vol 6 model is made by bak09
 
 The mod utilizes MoreSuits by x753 and ModelReplacmentAPI by BunyaPineTree.
 
